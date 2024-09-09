@@ -11,7 +11,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bakhriev" height="30" width="40" />
     </a>
     <a href="https://t.me/nfithr" target="_blank">
-        <img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_simple_logo.svg" alt="Telegram" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt="Telegram" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/murat" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murat" height="30" width="40" />
