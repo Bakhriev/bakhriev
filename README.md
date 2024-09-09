@@ -3,13 +3,16 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **legendofpain5112@gmail.com**
+- 📫 How to reach me **muradbakhriev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bakhriev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bakhriev" height="30" width="40" /></a>
 <a href="https://t.me/nfithr" target="blank">tg</a>  
 <a href="https://www.leetcode.com/murat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murat" height="30" width="40" /></a>
+  <a href="https://www.codewars.com/users/Murat_Bakhriev" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Codewars_logo.png" alt="Codewars" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
