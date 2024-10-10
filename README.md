@@ -1,5 +1,3 @@
-<h1 align="center">Murat Bakhriev</h1>
-
 - 📫 How to reach me **muradbakhriev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
